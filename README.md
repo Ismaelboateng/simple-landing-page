@@ -1,4 +1,4 @@
-# Fleet Management Landing Page
+# Simple Landing Page
 
 ## Overview
 This is a simple landing page UI for a fleet management platform, built using HTML and CSS. The page features a navigation bar, a headline, a description, and an image section to showcase the platform's capabilities.
